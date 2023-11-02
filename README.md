@@ -1,2 +1,2 @@
 # Nextjs
-This is a project for learning purpose.
+I have creted this project for learning a NextJs.
